@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="#"><img src="https://badges.pufler.dev/visits/mateusdoimo/mateusdoimo"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusdoimo" alt="mateusdoimo" /> </p>
